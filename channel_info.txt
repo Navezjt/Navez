@@ -245,8 +245,11 @@ https://www.youtube.com/channel/UCMEiyV8N2J93GdPNltPYM6w/live
 uatv.ua | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://www.youtube.com/channel/UCOqFkpNwNLPGOb8EC-mwZYg/live
 
-ua-tv.com | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
-https://www.youtube.com/channel/UC5V8mErVFOpcQXEb3y9IMZw/live
+uatv.ua | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
+https://freedom.cdn-03.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+
+Telemundo Puertorico | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
+https://www.cablevisionhd.com/stream2/telemundopuertorico.php
 
 City TV | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://citytv.eltiempo.com/en-vivo
 
@@ -257,9 +260,28 @@ Rtvtotal | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAA
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 
 TV LINE | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.tvenlineaoficial.com/
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 
-uatv.ua | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
-https://freedom.cdn-03.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+TVO | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://tvocanal23.com/tvo-en-vivo/
+https://5fc584f3f19c9.streamlock.net/tvo/videotvo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDI0IDg6MjI6MjQgUE0maGFzaF92YWx1ZT1tMmdUbDI2dE93eERhQW92SEkyYXBnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==&DVR
+
+Viva TV | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.vivatvonline.com/tv-en-vivo
+https://live.obslivestream.com/vivatv/tracks-v1a1/mono.m3u8
+
+Eitb | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.eitb.eus/es/en-directo/
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
+
+Canal Caracol | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.chatytvgratishd.me/canal-caracol-tv-streaming-vivo/
+https://s1.fta2024.nl/hls/chd1-910.m3u8
+
+WIPR | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://wipr.pr/envivo/
+https://cprdp.pr/hls/stream/1_2/index.m3u8?tkn=3130025789
+
+El Torotv | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://eltorotv.com/directo-tv
+https://edge-nodo-001.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1/mono.m3u8
+
+Aragon Television | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | http://www.aragontelevision.es/directo
+https://streamer92.server.aranova.cloud/clsdvr/live/aragontv_canal1_1000/index.m3u8?vv=PE&h=vfy5gHquGH2H5daTtgA1mw&e=31373236313733373035&r=4478
 
 Latina Televisión | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://rudo.video/rudo.m3u8
