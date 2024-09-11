@@ -2,10 +2,6 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-~~ DO NOT EDIT THE FIRST 2 LINES
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
-
-
 Vorterix | Variedades | https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg |
 https://www.youtube.com/@VorterixOficial/live
 
