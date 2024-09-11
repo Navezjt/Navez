@@ -4735,6 +4735,18 @@ https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg/live
 teleSUR | Noticias | https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png |
 https://www.youtube.com/user/telesurtv/live
 
+RTVE 02 | Noticias | https://yt3.ggpht.com/rLmW43Zq8QoI0rbyjN6r2jD495KTIYzmCtznYzSLQ0b-9dhR8YLtgsw3jvrNqgOCYCzoV-p-bA=s48-c-k-c0x00ffffff-no-rj  |
+https://www.youtube.com/@rtvenoticias/live
+
+RTVE 03 | Noticias | https://yt3.ggpht.com/rLmW43Zq8QoI0rbyjN6r2jD495KTIYzmCtznYzSLQ0b-9dhR8YLtgsw3jvrNqgOCYCzoV-p-bA=s48-c-k-c0x00ffffff-no-rj  |
+https://www.youtube.com/c/rtvenoticias/live
+
+Topmixtv.com.br | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
+https://video03.logicahost.com.br/topmixtv/topmixtv/playlist.m3u8
+
+laucadigital.blogspot.com | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
+
 CANAL 44 | Variedades | https://i.imgur.com/YDp8MlN.png |
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
