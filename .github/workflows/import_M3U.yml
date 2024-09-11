@@ -11,16 +11,16 @@ jobs:
 
     steps:
       - name: Checkout destination repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
-          repository: zeknewbe/porong
+          repository: Navezjt/Navez
           token: ${{ secrets.GITHUB_TOKEN }}
           path: dest-repo
 
       - name: Import M3U File
         env:
-          GIT_EMAIL: visionintegral@gmail.com
-          GIT_NAME: zeknewbe
+          GIT_EMAIL: seonavez@gmail.com
+          GIT_NAME: Navezjt
           SOURCE_REPO: jsosao/m3u
           SOURCE_FILE: mylist.m3u8
           SOURCE_BRANCH: main
