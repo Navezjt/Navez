@@ -1120,7 +1120,7 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
 Rakuten TV Comedia-ES | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 http://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 
-Distrito-ES | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
+Distrito-ES | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://distritotv.es/distrito-tv-en-directo/
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 
 interalmeria-ES | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
@@ -1128,6 +1128,9 @@ https://tv.interalmeria.tv/directo/live.m3u8
 
 Rtvce-ES | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
+
+Romance-channel-ES | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.distro.tv/live/romance-channel/
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/94d7116b-864b-4cc7-816a-d1defff87e9e/1.m3u8
 
 TeleMadrid-ES | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
