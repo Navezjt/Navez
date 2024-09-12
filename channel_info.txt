@@ -1409,7 +1409,7 @@ https://www.dailymotion.com/cdn/live/video/x3wqv8b.m3u8?sec=urGmr-KJ8yQJaG5kqs1f
 RCAV-FR | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 
-M6⚽-FR | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.tntendirect.com/M6-en-direct |
+M6-FR | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.tntendirect.com/M6-en-direct |
 https://s14.tntendirect.com/m6/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDEyOjU5OjM3IEFNJmhhc2hfdmFsdWU9dlRBTzFTeHhJM3VJUEdMcWZEMnhVZz09JnZhbGlkbWludXRlcz0zMA==
 
 Antenne-FR | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
