@@ -1523,6 +1523,18 @@ https://amg01796-fastmediabackbo-enquetesdechoc-samsungfr-s0s2i.amagi.tv/playlis
 EPIC-FR | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://d1dzvywp5tcxbn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ryq1as86j3gxc/epic.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai=SSSLIVE
 
+Francetvinfo-FR | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://la1ere.francetvinfo.fr/programme-video/
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/43444.m3u8
+
+KTOTV-FR | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.ktotv.com/
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+
+cnews-FR | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.cnews.fr/les-replays
+https://live-b.cf.dmcdn.net/sec2(HPydd5jq_b2hfiqfHS_pSIhNHt1lK0wy9-KMlICrJZvF74vWUyXzD5D6_g3iu0zFdBOd74sYyS7mJB_ovMJaUkyDx4V3t315EeH3bNwme50)/dm/3/x3b68jn/d/live-480@60.m3u8
+
+MAXIMO-FR | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.canalesparabolica.com/idiomas/frances.php?pais=francia
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+
 Mxplus-FR | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://mxplus.tv/television/france-24
 https://s5.mexside.net:1936/france24/france24/chunklist_w1528679568.m3u8
 
@@ -1573,6 +1585,9 @@ https://s14.tntendirect.com/lequipe21/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 
 6TER-FR | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://s14.tntendirect.com/6ter/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDE6MTI6MTEgQU0maGFzaF92YWx1ZT0rRm55RHphVFJaZXV6QWJ6ZWVKcjV3PT0mdmFsaWRtaW51dGVzPTMw
+
+RMC Sport 2 FHD-FR | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/NAVEZ02/blob/master/Tv/M3uSportsFrance/M3uSportsFrance.m3u
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2810&extension=ts&play_token=LE8LjwuM4i&sn2=
 
 Chérie-25-FR | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://s14.tntendirect.com/cherie25/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDI0IDE6MTM6MTAgQU0maGFzaF92YWx1ZT1uT1RkNkdaL2N0MFAyaFZQaEtvNmZ3PT0mdmFsaWRtaW51dGVzPTMw
