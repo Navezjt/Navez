@@ -1970,7 +1970,7 @@ http://186.148.195.206:8000/play/a04w/index.m3u8
 ESPN Premium HD😎 | → DEPORTES ← | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 http://168.197.196.98:82/stream/channelid/382818403?profile=pass
 
-ESPN HD | → DEPORTES ← | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
+ESPN HD | → DEPORTES ← | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/L_Personal/blob/main/LP.m3u
 http://168.197.196.98:82/stream/channelid/1093734737?profile=pass
 
 ESPN 2 HD | → DEPORTES ← | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
