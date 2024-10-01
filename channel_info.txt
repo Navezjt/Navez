@@ -113,7 +113,7 @@ https://www.dailymotion.com/video/x7gy059
 Mexico Travel Channel TV | Entertainment | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://www.dailymotion.com/video/x7v76vf
 
-PUBLIC SENAT  | Entertainment | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
+PUBLIC SENAT | Entertainment | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://www.dailymotion.com/video/xkxbzc
 
 Audacy | Entertainment | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
@@ -1264,7 +1264,7 @@ https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m
 DUBAI ONE ARABIC | Noticias | https://i.imgur.com/iSI4kky.png |
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
-2M Maroc marroquí  | Noticias | https://upload.wikimedia.org/wikipedia/commons/2/29/2M_TV_logo.svg |
+2M Maroc marroquí | Noticias | https://upload.wikimedia.org/wikipedia/commons/2/29/2M_TV_logo.svg |
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
 2M Maroc marroquí | Noticias | https://upload.wikimedia.org/wikipedia/commons/2/29/2M_TV_logo.svg |
@@ -2363,7 +2363,7 @@ https://live.creacast.com/telemelody/smil:telemelody-211112.smil/playlist.m3u8
 Ardmediathek.de-AL | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
 
-Oireachtas-tv-AL  | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
+Oireachtas-tv-AL | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls_1280x720.m3u8
 
 Tg4.ie-AL | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
@@ -4958,7 +4958,7 @@ https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 Bloomberg US Politics | Business | https://upload.wikimedia.org/wikipedia/commons/6/66/Bloomberg_Television_logo.svg |
 https://bloomberg.com/media-manifest/streams/politics.m3u8
 
-Bloomberg  | Business | https://upload.wikimedia.org/wikipedia/commons/6/66/Bloomberg_Television_logo.svg |
+Bloomberg | Business | https://upload.wikimedia.org/wikipedia/commons/6/66/Bloomberg_Television_logo.svg |
 https://bloomberg.com/media-manifest/streams/us.m3u8
 
 CNBC | Business | https://upload.wikimedia.org/wikipedia/commons/e/e3/CNBC_logo.svg |
@@ -5318,7 +5318,7 @@ https://www.youtube.com/channel/UCA0bOG0NUfJ855eDtHSxOkw/live
 REDE BOAS NOVAS | RELIGIOSO | https://yt3.ggpht.com/ytc/AKedOLRbFUrNuqtwnOu-x1dmYehCHn_TzFzix2MCNu1F=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/BoasNovasbr/live
 
-TV VERDADE  | RELIGIOSO | https://yt3.ggpht.com/ytc/AKedOLRbFUrNuqtwnOu-x1dmYehCHn_TzFzix2MCNu1F=s48-c-k-c0x00ffffff-no-rj |
+TV VERDADE | RELIGIOSO | https://yt3.ggpht.com/ytc/AKedOLRbFUrNuqtwnOu-x1dmYehCHn_TzFzix2MCNu1F=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/TVVERDADE/live
 
 Aparecida do Norte | RELIGIOSO | https://yt3.ggpht.com/BKuSCC60GobYrgO3lFbWqxLsrPbV6HuKR5e7Ig9cEeCBQPWuhf2B_Yvdf4DorB_1nY1s75DjLA=s48-c-k-c0x00ffffff-no-rj |
@@ -5426,7 +5426,7 @@ https://www.youtube.com/channel/UCsF_WAG6g2cWnFKhcrJAQCQ/live
 RIO DE JANEIRO AIRPORT | AIRPORT LIVE | https://yt3.ggpht.com/ytc/AKedOLTPXZTLVb-LYZkFp-quEYS3NcVDcLsxJ5nYb5yP=s88-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/AVTVBrasil/live
 
-PORTO ALEGRE AIRPORT  | AIRPORT LIVE | https://yt3.ggpht.com/Rq1qun-SzKJUphmNDzZUK6HndXIdQtPhH-kGxVtk7fP4fmoTLHnCTgBa8fzDMxq1tSdzU3TKWQ=s48-c-k-c0x00ffffff-no-rj |
+PORTO ALEGRE AIRPORT | AIRPORT LIVE | https://yt3.ggpht.com/Rq1qun-SzKJUphmNDzZUK6HndXIdQtPhH-kGxVtk7fP4fmoTLHnCTgBa8fzDMxq1tSdzU3TKWQ=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCFGIPvN1dMn4Bdo8B8WWPDw/live
 
 LAS VEGAS AIRPORT | AIRPORT LIVE | https://yt3.ggpht.com/ll6JaBsZF0046sDVf7j4MotltYYW5v8XwgZAYzuVierMMstTtEa0UdEDr3c3M4p6E8sKurQfVg=s48-c-k-c0x00ffffff-no-rj |
@@ -5477,28 +5477,28 @@ https://www.youtube.com/channel/UCcst6yHdE5Gdisu5YKCgc1g/live
 TVSN | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLQuZOZNocLbtDZkGVS2fPIoGzo8w2Bk8WCkyg_Zvg=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCo4sch-fwKIeyzyPIWRXjdw/live
 
-Bulldog Shopping Network (BSN) (STK) - USA (STK)  | HOME SHOPPING | https://i.imgur.com/X8p8oQs.jpg |
+Bulldog Shopping Network (BSN) (STK) - USA (STK) | HOME SHOPPING | https://i.imgur.com/X8p8oQs.jpg |
 https://www.youtube.com/channel/UCSjkdk0uRM3v6Z_4U-hk41Q/live
 
-Create and Craft - UK (STK)  | HOME SHOPPING | https://yt3.ggpht.com/fnybNqxJVlKpq0EplOrnGgfKyjwQD1kR-kZTUHOqlooUG2VfhZKjJgHSCiuZkftEUGqToaPpoNk=s48-c-k-c0x00ffffff-no-rj |
+Create and Craft - UK (STK) | HOME SHOPPING | https://yt3.ggpht.com/fnybNqxJVlKpq0EplOrnGgfKyjwQD1kR-kZTUHOqlooUG2VfhZKjJgHSCiuZkftEUGqToaPpoNk=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/createandcraft/live
 
-Cruise1st TV - UK (STK)  | HOME SHOPPING | https://i.imgur.com/YOnrSzJ.jpg |
+Cruise1st TV - UK (STK) | HOME SHOPPING | https://i.imgur.com/YOnrSzJ.jpg |
 https://www.youtube.com/channel/UC9r76Tzp5HxeQG7SqZwV3OA/live
 
-Gem Shopping Network - USA (STK)  | HOME SHOPPING | https://i.imgur.com/fIuxw0H.png |
+Gem Shopping Network - USA (STK) | HOME SHOPPING | https://i.imgur.com/fIuxw0H.png |
 https://www.youtube.com/channel/UCBROhZBlBQTxRW_3h6H-rlg/live
 
-Ideal World - UK (STK)  | HOME SHOPPING | https://i.imgur.com/k4lRame.png |
+Ideal World - UK (STK) | HOME SHOPPING | https://i.imgur.com/k4lRame.png |
 https://www.youtube.com/channel/UCJbgGTpBWuC87VFIKTTO4RQ/live
 
-Shop LC  | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLQPR3aIbJcJ_snqinGZEKdjP0mMPCmt4jYOYewT5RU=s48-c-k-c0x00ffffff-no-rj |
+Shop LC | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLQPR3aIbJcJ_snqinGZEKdjP0mMPCmt4jYOYewT5RU=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCP_T_GqYquLmsIpmDpJvULw/live
 
-Shop HQ Health - USA (STK)  | HOME SHOPPING | https://i.imgur.com/WVAQvvX.jpg |
+Shop HQ Health - USA (STK) | HOME SHOPPING | https://i.imgur.com/WVAQvvX.jpg |
 https://www.youtube.com/channel/UCyCljI7PbGR7zOIHJXQSK2w
 
-TJC Style  | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLSo-47JM1Mt-m_4EWdeZmi_uq87-cBZImge6KOr=s48-c-k-c0x00ffffff-no-rj |
+TJC Style | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLSo-47JM1Mt-m_4EWdeZmi_uq87-cBZImge6KOr=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC8dXdHZshMmgDmvFVzjl55Q/live
 
 Jewelry Television | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLQOhulAn6r13tu56_xQj-2FznIc_3aCz8Vt_vVE=s48-c-k-c0x00ffffff-no-rj |
@@ -5507,28 +5507,28 @@ https://www.youtube.com/channel/UCv7IxJXF5EMgzZ77DVSx4IQ/live
 Gemporia | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLS8VcnaTWQk6rbT3x5QJmWJgOp0uSIM-5VQDnQ0WQ=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/Gemporia/live
 
-America's Auction Channel (AACTV) - USA (STK)  | HOME SHOPPING | https://i.imgur.com/7NCipJ2.png |
+America's Auction Channel (AACTV) - USA (STK) | HOME SHOPPING | https://i.imgur.com/7NCipJ2.png |
 https://www.youtube.com/channel/UCmGXuyddt_xg6ckdbGNPAjg/live
 
-The Coin Vault - USA (STK)  | HOME SHOPPING | https://i.imgur.com/NFCKC7X.jpg |
+The Coin Vault - USA (STK) | HOME SHOPPING | https://i.imgur.com/NFCKC7X.jpg |
 https://www.youtube.com/channel/UCGbjb7FYYmj0z3_9iJ7dMPQ/live
 
-PearlTV - França (STK)  | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLSq1yxaRYx70xm0ux1q50B0X-Mm6Iq_nN8cMVOyhw=s48-c-k-c0x00ffffff-no-rj |
+PearlTV - França (STK) | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLSq1yxaRYx70xm0ux1q50B0X-Mm6Iq_nN8cMVOyhw=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCvpCjGQASCazC-Vxcp9tgPA/live
 
-Pearl TV - Alemanha (STK)  | HOME SHOPPING | https://i.imgur.com/cbFWldL.jpg |
+Pearl TV - Alemanha (STK) | HOME SHOPPING | https://i.imgur.com/cbFWldL.jpg |
 https://www.youtube.com/channel/UCp0urejlDaYz4G8xpTxdIvw/live
 
-CHANNEL21 - Alemanha (STK)  | HOME SHOPPING | https://i.imgur.com/wOAxLMR.png |
+CHANNEL21 - Alemanha (STK) | HOME SHOPPING | https://i.imgur.com/wOAxLMR.png |
 https://www.youtube.com/channel/UCcst6yHdE5Gdisu5YKCgc1g/live
 
-Телеканал Shop&Show - Russia (STK)  | HOME SHOPPING | https://i.imgur.com/pwVA25v.jpg |
+Телеканал Shop&Show - Russia (STK) | HOME SHOPPING | https://i.imgur.com/pwVA25v.jpg |
 https://www.youtube.com/channel/UCWGkK1d7eUmK8XmJ4Kyu4MQ/live
 
-Juvelirochka TV (Ювелирочка ТВ) - Russia (STK)  | HOME SHOPPING | https://i.imgur.com/CNf0Ej5.png |
+Juvelirochka TV (Ювелирочка ТВ) - Russia (STK) | HOME SHOPPING | https://i.imgur.com/CNf0Ej5.png |
 https://www.youtube.com/channel/UCsxo83jFFZNC9woLRVG7d4w/live
 
-Leomax 24 - Russia (STK)  | HOME SHOPPING | https://i.imgur.com/gFnsnth.jpg |
+Leomax 24 - Russia (STK) | HOME SHOPPING | https://i.imgur.com/gFnsnth.jpg |
 https://www.youtube.com/channel/UCBu0BKbDNL09ihRHK5wWzvQ/live
 
 MOMO Shopping Channel CH35 - Japan (STK) | HOME SHOPPING | https://i.imgur.com/ryobVFo.jpg |
@@ -5543,10 +5543,10 @@ https://www.youtube.com/c/HotsaleTV/live
 ViVa TV美好家庭購物 | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLQudWWNn0SsatIUa2ZzwFpyRccgalHjWQyLVga0wQ=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/ViVaTVtw/live
 
-Televisa Tijuana Oficial  | MÉXICO | https://yt3.ggpht.com/ytc/AKedOLTm6RoVYVAWhnPI4yxPIqQLR1BzylEoI9ZlY1j5Tg=s48-c-k-c0x00ffffff-no-rj |
+Televisa Tijuana Oficial | MÉXICO | https://yt3.ggpht.com/ytc/AKedOLTm6RoVYVAWhnPI4yxPIqQLR1BzylEoI9ZlY1j5Tg=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/Live
 
-Televisa Tijuana Oficial  | MÉXICO | https://yt3.ggpht.com/ytc/AKedOLTm6RoVYVAWhnPI4yxPIqQLR1BzylEoI9ZlY1j5Tg=s48-c-k-c0x00ffffff-no-rj |
+Televisa Tijuana1 Oficial | MÉXICO | https://yt3.ggpht.com/ytc/AKedOLTm6RoVYVAWhnPI4yxPIqQLR1BzylEoI9ZlY1j5Tg=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=u_C7Lwe1798/Live
 
 Televisa Monterrey | Latino | https://yt3.ggpht.com/ytc/AKedOLRmmKfO1elXXd35esMKADHT1pwz6e-JLpQrO0Do=s88-c-k-c0x00ffffff-no-rj |
@@ -5555,7 +5555,7 @@ https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
 Telediario Canal 6 Monterrey | MÉXICO | https://yt3.ggpht.com/ytc/AKedOLSQLi-YQ5nyYYmxkdA8pBkJIql9s_fCRZd2_yaC2A=s88-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCCTTGnP8-QydTBoMXCUduoQ/Live
 
-Televisa Chihuahua | MÉXICO | https://yt3.ggpht.com/ytc/AKedOLQ1uIxB2HJoa_GXZDWBKg4NGkM0dcNYrGWpQCnc=s48-c-k-c0x00ffffff-no-rj |
+Televisa Chihuahua1 | MÉXICO | https://yt3.ggpht.com/ytc/AKedOLQ1uIxB2HJoa_GXZDWBKg4NGkM0dcNYrGWpQCnc=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=xvGxvwWlnJ8/Live
 
 Televisa Chihuahua | MÉXICO | https://yt3.ggpht.com/ytc/AKedOLQ1uIxB2HJoa_GXZDWBKg4NGkM0dcNYrGWpQCnc=s48-c-k-c0x00ffffff-no-rj |
