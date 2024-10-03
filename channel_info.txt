@@ -5470,11 +5470,29 @@ https://mdstrm.com/live-stream-playlist/655554f36b26e708c43f5aea.m3u8
 Canal 12 Televisión Pública Regional | Variedades | https://yt3.ggpht.com/ytc/AKedOLQylk1Pg1iz872BeKPel5iEkdEGbXFV4-_c2x0n=s88-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCaU_cKHQ4IFHvBzQ-tKS1-Q/live
 
+Cork Community TV IE | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://corkcommunitytv.ie/
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/896cad7d35a847f585551378cd7ba4d2/chunklist_b4628000.m3u8?p=79&s=1727916410&e=1727916530&h=09c5a00bc1680436868ad98395e3c27a
+
+TG4 IE | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.tg4.ie/en/player/watch-live/home/
+https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8
+
+La 1 TV | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_576.m3u8
+
+La 1 TV NAVEZ | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.rtve.es/television/
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
+
 La 1 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://www.rtve.es/play/videos/directo/canales-lineales/la-1/
 
+La 2 TV | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_720.m3u8
+
 La 2 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://www.rtve.es/play/videos/directo/canales-lineales/la-2/
+
+24h TV | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 24h | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://www.rtve.es/play/videos/directo/canales-lineales/24h/
