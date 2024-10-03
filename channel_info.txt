@@ -755,7 +755,23 @@ https://d1svme839xkbsn.cloudfront.net/index.m3u8
 ATV SUR PE | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8
 
+Autenticatv PE | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://autenticatv.pe/
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
+
+Geniostv PE | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://geniostv.pe/
+https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
+
+PE | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://supercanal.com.pe/
+https://live.obslivestream.com/supercanal/index.m3u8
+
+Viaaltomayo PE | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://obslivestream.com/#seccion01
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+
+Norselva PE | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://radiotvnorselva.com/
+https://live.obslivestream.com/norselvatv/tracks-v1a1/mono.m3u8
+
 City TV | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://citytv.eltiempo.com/en-vivo
+https://www.youtube.com/embed/fzyvVBzAeBI?autoplay=1&mute=1&enablejsapi=1&origin=https%3A%2F%2Fcitytv.eltiempo.com
 
 Tvsur CO CR | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.tvsur.co.cr/envivo/
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w1936198811.m3u8
