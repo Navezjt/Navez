@@ -761,7 +761,7 @@ https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 Geniostv PE | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://geniostv.pe/
 https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
 
-PE | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://supercanal.com.pe/
+Super canal PE | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://supercanal.com.pe/
 https://live.obslivestream.com/supercanal/index.m3u8
 
 Viaaltomayo PE | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://obslivestream.com/#seccion01
