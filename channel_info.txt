@@ -275,7 +275,7 @@ https://raw.githubusercontent.com/CODERX24/tv/master/Univision.m3u8
 Antenna TV 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/CODERX24/tv/blob/0104ad7a64ab808ff95a0e77953bfd38aa94401c/advancefeed.json#L943
 https://raw.githubusercontent.com/CODERX24/tv/master/antennatv.m3u8
 
-Stadium-Live-Advance-TV 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
+Stadium-Live-Advance-TV ⚽🥎 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://raw.githubusercontent.com/CODERX24/tv/master/Stadium.m3u8
 
 Nat Geo WIld(Latency) 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
@@ -284,7 +284,7 @@ https://raw.githubusercontent.com/CODERX24/tv/master/NATGEOWILD.m3u8
 MTV(Latency) 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://raw.githubusercontent.com/CODERX24/tv/master/MTVASIA.m3u8
 
-National Geographic(Latency) 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
+National Geographic(Latency) 😋 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://github.com/CODERX24/tv/raw/master/Natgeo.m3u8
 
 HBO(Latency) 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
@@ -366,8 +366,10 @@ Telemundo NAVEZ 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgx
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 Univivion NAVEZ 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/index.html#Univivion
+https://edge.tbnespaña.es/LiveApp/streams/tbnlive.m3u8
 
 Estrellatv NAVEZ 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/estrellatv.html
+https://estrellatv-plex.amagi.tv/playlist.m3u8
 
 Cosmovision NAVEZ 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/cosmo%20vision.html#Cosmo%20Vision
 https://videohls2.cosmovision.tv/hls/sd.m3u8
@@ -390,22 +392,35 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 Caillou NAVEZ 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/caillou.html#caillou
 https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
 
-Wildlife NAVEZ 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/wildlife.html#Wild%20life
+Wildlife NAVEZ 📣 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/wildlife.html#Wild%20life
 https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
 
-Sony Novelas NAVEZ 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/sonynovelas.html#Sony%20novelas
+Sony Novelas NAVEZ 📣 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/sonynovelas.html#Sony%20novelas
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 
-Aztecacinema NAVEZ 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/aztecacinema.html#azteca%20cinema
+Aztecacinema NAVEZ 📣 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/aztecacinema.html#azteca%20cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
-Baby NAVEZ 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/Baby%20shark%20English.html#Baby%20shark%20English
+Baby NAVEZ 😜✨ | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/Baby%20shark%20English.html#Baby%20shark%20English
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-Fox News NAVEZ 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/Fox%20News.html#fox%20news
+Fox News NAVEZ 📣 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/Fox%20News.html#fox%20news
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-NAVEZ 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/beinxtraen.html#Watch%20Bein%20xtra
+Beinsportsllc Beinxtra NAVEZ🏆🏅 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/beinxtraen.html#Watch%20Bein%20xtra
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
+
+FailArmy Internacionalᴴᴰ 🇺🇸 🟤😜✨ | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Love4vn/love4vn/blob/main/CXT.m3u
+https://jukin-failarmy-international-1-eu.vidaa.wurl.tv/playlist.m3u8
+
+НТВ HD 😜 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/JekaLich/smtk/blob/main/TV.m3u
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+
+IDTV 😜 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+RIAU TV✨ | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Iqbalbala/INTEKTV/blob/main/ITK-FAREL-PUSPANDARI
+https://63b2dc7196c38.streamlock.net:1937/riautv/myStream/playlist.m3u8
 
 Ketnet Junior 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://www.vrt.be/vrtmax/livestream/video/ketnet-jr/
