@@ -1,4 +1,4 @@
-# Playlist Generator
+# Navez Playlist Generator
 
 This repository contains a generator for an M3U playlist comprising various resources, such as YouTube, Twitch, Dailymotion, and direct URL streaming.
 
