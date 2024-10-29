@@ -41,6 +41,33 @@ https://www.youtube.com/@cronicatv/live
 La Nacion + | Noticias | https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png |
 https://www.youtube.com/@lanacion/live
 
+The Global Prayer Room | RELIGIOSO | https://yt3.ggpht.com/ytc/AKedOLT5SVvlAQfKftqWVzeOs-8vyiy4HQaeK_57h0f_-A=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCqSYig9Cmx6DJ3XaUYg4vpw/live
+
+REVERE - 24/7 Worship | RELIGIOSO | https://yt3.ggpht.com/ytc/AKedOLTzpN8YCpuGzvSsggwQitoHX_EwEvUd05pmfEer=s48-c-k-c0x00ffffff-no-rj-mo |
+https://www.youtube.com/channel/UCtPhR34windpzltylYrj5mg/live
+
+RIT TV | RELIGIOSO | https://yt3.ggpht.com/ytc/AKedOLSW13YN_olchdGSjC59K4VQiZHPO0rq6PlCCWZLTA=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCA0bOG0NUfJ855eDtHSxOkw/live
+
+REDE BOAS NOVAS | RELIGIOSO | https://yt3.ggpht.com/ytc/AKedOLRbFUrNuqtwnOu-x1dmYehCHn_TzFzix2MCNu1F=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/BoasNovasbr/live
+
+TV VERDADE  | RELIGIOSO | https://yt3.ggpht.com/ytc/AKedOLRbFUrNuqtwnOu-x1dmYehCHn_TzFzix2MCNu1F=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/TVVERDADE/live
+
+Aparecida do Norte | RELIGIOSO | https://yt3.ggpht.com/BKuSCC60GobYrgO3lFbWqxLsrPbV6HuKR5e7Ig9cEeCBQPWuhf2B_Yvdf4DorB_1nY1s75DjLA=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/AparecidaAoVivo/live
+
+Vatican News | RELIGIOSO | https://yt3.ggpht.com/ytc/AKedOLTcmInFx-BRSCvIU5N-DYDj2DUHLX5nF9OKA8QLtA=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC7E-LYc1wivk33iyt5bR5zQ/live
+
+Santuário de Fátima | RELIGIOSO | https://yt3.ggpht.com/ytc/AKedOLQeD4dlDV_dBGnZhUR5QG5S1y_MQBrmjagMcjjVJg=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCOAjX8pc2fY1S5AqsXvZywg/live
+
+Santuário Notre-Dame de Lourdes | RELIGIOSO | https://yt3.ggpht.com/WSq_VxcqTx-9jF4UrPdqKUJk0dx5l94JGAzMPBLuinbzrzntRaWvra0u82y1HYAW_gOMpQQjDjA=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/LeSanctuaireNotreDamedeLourdes/live
+
 DaAi TV Screen Room | Entertainment | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://www.dailymotion.com/video/x5crdro
 
@@ -421,6 +448,12 @@ https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 
 Telemundo2 NAVEZ 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/telemundo.html
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+Telemundo Orlando FL | NEWS WORLD | https://media.telemundo31.com/2022/01/WTMO-31.png?resize=400%2C225&quality=85&strip=all | 
+https://nbculocallive.akamaized.net/hls/live/2037602/orlando/stream1/master.m3u8
+
+Telemundo Miami FL | NEWS WORLD | https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png |  
+https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream6/master.m3u8
 
 Univivion NAVEZ 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/index.html#Univivion
 https://edge.tbnespaña.es/LiveApp/streams/tbnlive.m3u8
