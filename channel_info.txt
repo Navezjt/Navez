@@ -2488,6 +2488,33 @@ https://cloudvideo.servers10.com:8081/8120/index.m3u8
 LENA RTV-DO | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 
+SYFY LA HD 🤗 ES | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/NAVEZ02/blob/master/Tv/listaspa%C3%B1a.m3u
+https://streaming-cl.sh1ny.space/memfs/4f2393d1-64eb-4e8f-a2f4-f60feea9e63d.m3u8
+
+Imvasiva Media HD ES | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/NAVEZ02/blob/master/Tv/listaspa%C3%B1a.m3u
+https://tv.invasivamedia.com/hls/limtv.m3u8
+
+Mundo Series ES | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/NAVEZ02/blob/master/Tv/listaspa%C3%B1a.m3u
+https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
+
+Wow Movies SD 🤗 ES | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/delmitv/lista-IPTV/blob/main/lista.m3u
+https://ssh101-fl.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+
+Conectate TV ES | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/NAVEZ02/blob/master/Tv/listaspa%C3%B1a.m3u
+https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
+
+Dreiko TV ES | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/NAVEZ02/blob/master/Tv/listaspa%C3%B1a.m3u
+https://cloudvideo.servers10.com:8081/8096/playlist.m3u8
+
+Canal LMS ES | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/NAVEZ02/blob/master/Tv/listaspa%C3%B1a.m3u
+https://ssh101-fl.bozztv.com/ssh101/canallms/playlist.m3u8
+
+Extrema TV Kids ES | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/NAVEZ02/blob/master/Tv/listaspa%C3%B1a.m3u
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
+Rakuten TV en Familia HD ES | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/NAVEZ02/blob/master/Tv/listaspa%C3%B1a.m3u
+http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+
 24h HD (opcion 2)-ES | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
 
