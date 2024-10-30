@@ -2037,6 +2037,52 @@ https://livevideo.tegnadigital.com/kusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 NBC 11 Atlanta GA (WXIA) | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png |
 https://livevideo.tegnadigital.com/wxia/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA/elvs/live.m3u8
 
+Colimdotv REPUBLICA DOMINICANA | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/carlosjose006/flims/blob/4e3e47bf676e5d508a828bf287b29f8f9815521f/maxshitv.m3u8
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+
+EN Televisión REPUBLICA DOMINICANA | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/carlosjose006/flims/blob/4e3e47bf676e5d508a828bf287b29f8f9815521f/maxshitv.m3u8
+https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
+
+Noticias 16 REPUBLICA DOMINICANA | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/flims/blob/main/maxshitv.m3u8
+https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
+
+Cinevisión REPUBLICA DOMINICANA | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/flims/blob/main/maxshitv.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
+
+Canal 25 REPUBLICA DOMINICANA | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/flims/blob/main/maxshitv.m3u8
+https://ss3.domint.net:3150/c25_str/canal25/chunklist_w1873127099.m3u8
+
+Carivisión REPUBLICA DOMINICANA | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/flims/blob/main/maxshitv.m3u8
+https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
+
+Rnn REPUBLICA DOMINICANA | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/flims/blob/main/maxshitv.m3u8
+https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w424115432.m3u8
+
+CTN REPUBLICA DOMINICANA | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/flims/blob/main/maxshitv.m3u8
+https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w1839109183.m3u8
+
+JOURNY Channel_252 USA | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/carlosjose006/flims/blob/4e3e47bf676e5d508a828bf287b29f8f9815521f/vix.m3u#L4
+https://linear-252.frequency.stream/dist/vix/252/hls/master/playlist.m3u8
+
+
+OVERTIME Channel_281 USA | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/carlosjose006/flims/blob/4e3e47bf676e5d508a828bf287b29f8f9815521f/vix.m3u#L4
+https://linear-281.frequency.stream/dist/vix/281/hls/master/playlist.m3u8
+
+JORNY Channel_298 USA | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/carlosjose006/flims/blob/4e3e47bf676e5d508a828bf287b29f8f9815521f/vix.m3u#L4
+https://linear-298.frequency.stream/dist/vix/298/hls/master/playlist.m3u8
+
+BOUNCE XL Channel_434 USA | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/carlosjose006/flims/blob/4e3e47bf676e5d508a828bf287b29f8f9815521f/vix.m3u#L4
+https://linear-434.frequency.stream/dist/vix/434/hls/master/playlist.m3u8
+
+ION MISTERY Channel 436 USA | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/carlosjose006/flims/blob/4e3e47bf676e5d508a828bf287b29f8f9815521f/vix.m3u#L4
+https://linear-436.frequency.stream/dist/vix/436/hls/master/playlist.m3u8
+
+AT HOME USA | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/carlosjose006/flims/blob/4e3e47bf676e5d508a828bf287b29f8f9815521f/vix.m3u#L4
+https://linear-458.frequency.stream/dist/vix/458/hls/master/playlist.m3u8
+
+SCRIPPS NEWS USA | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/carlosjose006/flims/blob/4e3e47bf676e5d508a828bf287b29f8f9815521f/vix.m3u#L4
+https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
+
 Nostalgia persian | Noticias | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.persianity.com/ch=Persiana-Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
 
