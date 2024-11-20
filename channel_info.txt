@@ -579,6 +579,12 @@ https://30a-tv.com/feeds/mwaretv/visitflorida.m3u8
 peru entertainment play | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.vivalivetv.com/channel/peru-entertainment-play
 https://stream-us-east-1.getpublica.com/cl/241112cspac521ffg7rdgib8p0/1280x720_2631173_0_f.m3u8?i=1187_12966
 
+TV 2000 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.parsatv.com/name=TV-2000#spanish
+https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8
+
+EL OCHO AR | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.elocho.tv/
+https://live-b.cf.dmcdn.net/sec2(WnZhoUxWhNBZGhoyXRg58jXUZFMIwRVDNHCTZ-Z9p3fmhAgQkv1Bqs9P2L3_Ub6GbVbsvFA3lluG0sQZMnA0pBIWabsd4dzMwBBT-DCQriqskbZemTaIwLJjsOThWabg)/dm/3/x8z8w7c/d/live-720.m3u8
+
 tele cibao | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.vivalivetv.com/channel/tele-cibao
 https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
 
