@@ -2867,6 +2867,81 @@ https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 OttoChannel.it | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://artv.watch/en/IT/OttoChannel.it
 https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
 
+cetelmon | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | http://player.cetelmon.tv/index.html
+http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
+
+Radiovida | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://vidartv.com/index.php/
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
+Altar | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://vidartv.com/index.php/
+https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
+
+Dhamma TV ASIA | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://live.dmc.tv/
+https://live.zoom072.com/ch5/ch5.m3u8
+
+DMK TV ASIA | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://live.dmc.tv/
+https://live.zoom072.com/ch9/ch9.m3u8
+
+CH9 TV ASIA | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://live.dmc.tv/t02
+https://live.zoom072.com/ch9/ch9.m3u8
+
+13 THAI | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | 
+https://live.x2.co.th/live/13livetv-th.m3u8
+
+CH 13 THAI | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://freeetv.com/live-television-3789.html
+https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
+
+News1 THAI | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | http://www.aiiztv.com/news1.php
+https://server1.streamssl.com/stream/news1_low.m3u8
+
+Tnn 16 THAI | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://livestreamlinks.net/en/onlinetv/thailand/tnn-16
+https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/chunklist_w1610928467.m3u8
+
+Zabb Channel THAI | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://livestreamlinks.net/en/onlinetv/thailand/zabb-channel
+https://vdo.plathong.net/flash7057/flash7057/chunklist_w2001780072.m3u8
+
+JKN18 TOPNEWS THAI | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | http://www.aiiztv.com/topnews.php
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+MCOT THAI | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://tv.mcot.net/index
+https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
+
+channels True 4U THAI | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | 
+https://edge6a.v2h-cdn.com/true4u/true4u.stream/chunklist_w589995398.m3u8
+
+Thairath THAI | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.thairath.co.th/tv/live
+https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
+
+ดูทีวีช่อง Amarin THAI | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.amarintv.com/
+https://amarin-ks7jcc.cdn.byteark.com/live/1080p_index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1732456458&x_ark_path_prefix=%2Flive%2F&x_ark_signature=n6mdcxvijg4DvYq3kAYvqw
+
+ดูทีวีช่อง PBS THAI | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.thaipbs.or.th/live?utm_source=mthai-want-to-be-partner&utm_campaign=contact-081-819-0213&utm_medium=TV-live
+https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+channels TVB THAI | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://livestreamlinks.net/en/onlinetv/thailand/tvb-thai
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w478862894.m3u8
+
+CH7 THAI | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://mthai.com/tv/thaich8
+http://395cb53098eae6b290700d8683a8375b.livehwc3.cn/streaming-hwc.ch7.com/livech7hd/HD.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=326cdd15877f5b1bf9f5dd11fa55afc9
+
+Channel 7 THAI | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://livestreamlinks.net/en/onlinetv/thailand/channel-7
+http://streaming-hwc.ch7.com/livech7hd/HD.m3u8
+
+channels TV5 THAI | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://livestreamlinks.net/en/onlinetv/thailand/mangorn
+https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/chunklist_w1848533584.m3u8
+
+TV THAI | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://livestreamlinks.net/en/onlinetv/thailand/mangorn
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+Aragontelevision ES | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/nitex/api/blob/8e8fe73519964a7ef5099579c7c7caf1c3c146c8/wtv/ES/index.json#L42
+https://cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+TPA ES | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.rtpa.es/tpa-television
+https://rtpadirecto.flumotion.cloud/rtpalive/smil:directo.smil/fmt_token/s10KigqSNCv9rDYtgE_nqDtzWzli4JiXsITqSgz8LiY/eyJleHBpcmUiOjE3MzI0MDY0MDEsInVybF9hbGxvdyI6WyIvcnRwYWxpdmUiXSwicmVmX2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXX0/rtpa/live1_1080p/chunks_dvr.m3u8
+
+TV THAI | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/apinavez/blob/master/wtv/ES/index.json
+https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+
 Iran Hispan TV | Noticias | https://davinci.zappingtv.com/gato/media/256/canales/color/espn3.jpg | https://www.hispantv.com/
 https://live.presstv.ir/hls/hispantv.m3u8
 
@@ -2887,6 +2962,9 @@ https://aristegui.univtec.com/hls/live/2024295/aristegui/srt/1/streamPlaylist.m3
 
 España LA1 | Noticias | https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_TVE-1.svg |
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
+
+España2 LA1 | Noticias | https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_TVE-1.svg | https://www.rtve.es/play/videos/directo/canales-lineales/la-1/
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 ChileVISIÓN | Noticias | https://www.chilenotas.com/img/chv.png |
 https://jireh-2-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_1000.m3u8?dpssid=b13189239407265c81735c94c0&sid=ba5t1l1xb4194243882465c8173836a75&ndvc=0
