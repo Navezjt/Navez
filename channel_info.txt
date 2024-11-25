@@ -2859,6 +2859,9 @@ http://mytv.dothome.co.kr/ch/public/3.php/.m3u8
 KBS2 3KR | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://github.com/Navezjt/East1001.github.io/blob/main/Kr.m3u
 http://mytv.dothome.co.kr/ch/public/3.php?checkedby:iptvcat.com
 
+KBS NOTICIAS | Streaming | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | 
+https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Expires=1732725901&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi9uZXdzMjQtMDJfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMjcyNTkwMX19fV19&Signature=k9EqqZRA6quQFB-e7a8pkv~3k2WRdpWlp92jfsYrtwEkewnEsdbZKq8HhxWk2TSCDIo0nxa0hpT5rmTOW3V6iC3kjI44wjOUqSqnVLqAHc7MNvm2svuXLURkGmVMR32CjyC-45rdsti0s0aJS~Dd1lEJxzQoLG7ekhvZCIiZdBxijYmvrhUeHW-57tnUivTDDx6XEm18BUTOTlK2ldMUPkAf4tXRI1JO-MedaGGuYqz~Y4U0tNWB5yYPHtzhwK7xCK2q~hGnxGXzbU-SdyJqn8QritHkBw~FDmZhFGy~6khSdhvXfOxDz376LbKqYrG7hW7q4oXF3eravxCwgYfCew__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
 K+ KOREA💌 | Noticias | https://i.ibb.co/TKZVJn6/k.jpg |
 http://210.210.155.35/uq2663/h/h08/index.m3u8 
 
