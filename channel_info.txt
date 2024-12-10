@@ -824,8 +824,14 @@ https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 Telemundo51 Miami Florida | NEWS WORLD | https://www.telemundo51.com/wp-content/themes/nbc-station/static/images/TelemundoLiveTV-Desktop.png | https://www.telemundo51.com/ver/
 https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/d4720189-627f-4f9e-a982-d91df0e5c005/2.m3u8
 
+Telemundo Laredo NAVEZ 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://www.telemundolaredo.tv/en-vivo/
+https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=3ea08c47552045dfba445e7e93c2da1d
+
 Univivion NAVEZ 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://amorlatinochat.com/index.html#Univivion
 https://edge.tbnespaña.es/LiveApp/streams/tbnlive.m3u8
+
+EVTV NAVEZ 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://evtv.online/noticias-de-venezuela/
+https://edge.streann.com/evtv1/evtv1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3MzM4ODM5MzYsInJpZCI6IjU5NWZiNGExOTczODA1MDExN2FhNDQyNyIsImtleSI6ImtleTEiLCJjaWQiOiI1YTU2M2JkZjJjZGMzMmQxNzRmOGU5OTUifQ.t9MPYPxt2titkdhWWyO475hHXvH1xi-5XJfh0z6hVjM
 
 wapa 🌍 | Variedades | https://1.bp.blogspot.com/-lOx0kJZ3jM4/YPDgxcrNO-I/AAAAAAAAFH0/Km-tRFuimHY7tgp_a3uuzz49DrjQca_dACLcBGAsYHQ/w320-h160/JOEL%2BTN.png | https://wapa.tv/envivo/
 https://live.field59.com/t/1730231520_b05a733c2213ca6cc99e321a241145e63177111f_1730237580/wapa/ngrp:wapa1_all/chunklist_b2690048.m3u8
